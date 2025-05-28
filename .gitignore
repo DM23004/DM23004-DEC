@@ -1,0 +1,19 @@
+# Archivos objeto
+*.o
+
+# Ejecutables generados (puedes agregar más si tienes otros)
+resta
+multiplicacion
+division_32bits
+
+# Archivos temporales y de respaldo
+*~
+*.bak
+
+# Archivos generados por editores comunes
+*.swp
+*.swo
+
+# Carpetas ocultas de sistemas (opcional)
+.DS_Store
+Thumbs.db
