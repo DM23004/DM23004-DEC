@@ -98,6 +98,3 @@ Para la conversión y la impresión del resultado, se mantiene el valor en 32 bi
 
 ---
 
-## Notas finales
-
-Estos ejercicios ayudan a practicar la manipulación de registros de distintos tamaños en ensamblador y la impresión de resultados por consola usando interrupciones del sistema Linux (`int 0x80`).
